@@ -1,0 +1,149 @@
+name,online_order,book_table,rate,votes,cost_for_two,restaurant_type,rating_band,cost_band
+Jalsa,Yes,Yes,4.1,775,800,Buffet,4.0+,700+
+Spice Elephant,Yes,No,4.1,787,800,Buffet,4.0+,700+
+San Churro Cafe,Yes,No,3.8,918,800,Buffet,3.5-4.0,700+
+Addhuri Udupi Bhojana,No,No,3.7,88,300,Buffet,3.5-4.0,Under 300
+Grand Village,No,No,3.8,166,600,Buffet,3.5-4.0,500-700
+Timepass Dinner,Yes,No,3.8,286,600,Buffet,3.5-4.0,500-700
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6,8,800,Buffet,3.5-4.0,700+
+Onesta,Yes,Yes,4.6,2556,600,Cafes,4.0+,500-700
+Penthouse Cafe,Yes,No,4.0,324,700,other,3.5-4.0,500-700
+Smacznego,Yes,No,4.2,504,550,Cafes,4.0+,500-700
+Village Café,Yes,No,4.1,402,500,Cafes,4.0+,300-500
+Cafe Shuffle,Yes,Yes,4.2,150,600,Cafes,4.0+,500-700
+The Coffee Shack,Yes,Yes,4.2,164,500,Cafes,4.0+,300-500
+Caf-Eleven,No,No,4.0,424,450,Cafes,3.5-4.0,300-500
+San Churro Cafe,Yes,No,3.8,918,800,Cafes,3.5-4.0,700+
+Cafe Vivacity,Yes,No,3.8,90,650,Cafes,3.5-4.0,500-700
+Catch-up-ino,Yes,No,3.9,133,800,Cafes,3.5-4.0,700+
+Kirthi's Biryani,Yes,No,3.8,144,700,Cafes,3.5-4.0,500-700
+T3H Cafe,No,No,3.9,93,300,Cafes,3.5-4.0,Under 300
+360 Atoms Restaurant And Cafe,Yes,No,3.1,13,400,Cafes,3.0-3.5,300-500
+The Vintage Cafe,Yes,No,3.0,62,400,Cafes,Below 3,300-500
+Woodee Pizza,Yes,No,3.7,180,500,Cafes,3.5-4.0,300-500
+Cafe Coffee Day,No,No,3.6,28,900,Cafes,3.5-4.0,700+
+My Tea House,Yes,No,3.6,62,600,Cafes,3.5-4.0,500-700
+Hide Out Cafe,No,No,3.7,31,300,Cafes,3.5-4.0,Under 300
+CAFE NOVA,No,No,3.2,11,600,Cafes,3.0-3.5,500-700
+Coffee Tindi,Yes,No,3.8,75,200,Cafes,3.5-4.0,Under 300
+Sea Green Cafe,No,No,3.3,4,500,Cafes,3.0-3.5,300-500
+Cuppa,No,No,3.3,23,550,Cafes,3.0-3.5,500-700
+Srinathji's Cafe,No,No,3.8,148,550,Cafes,3.5-4.0,500-700
+Redberrys,Yes,No,4.0,219,600,Cafes,3.5-4.0,500-700
+Foodiction,Yes,No,2.8,506,500,other,Below 3,300-500
+Sweet Truth,Yes,No,3.9,35,500,Dining,3.5-4.0,300-500
+Ovenstory Pizza,Yes,No,3.9,172,750,Dining,3.5-4.0,700+
+Faasos,Yes,No,4.2,415,500,other,4.0+,300-500
+Behrouz Biryani,Yes,No,3.9,230,650,Dining,3.5-4.0,500-700
+Fast And Fresh,Yes,No,2.8,91,400,Dining,Below 3,300-500
+Szechuan Dragon,Yes,No,4.2,1647,600,Dining,4.0+,500-700
+Empire Restaurant,Yes,No,4.4,4884,750,other,4.0+,700+
+Maruthi Davangere Benne Dosa,Yes,No,4.0,17,150,Dining,3.5-4.0,Under 300
+Chaatimes,Yes,No,3.8,133,200,Dining,3.5-4.0,Under 300
+Havyaka Mess,No,No,3.9,28,300,Dining,3.5-4.0,Under 300
+McDonald's,Yes,No,3.9,286,500,Dining,3.5-4.0,300-500
+Domino's Pizza,Yes,No,3.9,540,800,Dining,3.5-4.0,700+
+Onesta,Yes,Yes,4.6,2556,600,other,4.0+,500-700
+Hotboxit,No,No,3.8,36,400,Dining,3.5-4.0,300-500
+Kitchen Garden,Yes,No,3.6,244,300,Dining,3.5-4.0,Under 300
+Recipe,Yes,No,4.0,804,450,Dining,3.5-4.0,300-500
+Beijing Bites,Yes,No,3.7,679,850,Dining,3.5-4.0,700+
+Tasty Bytes,Yes,No,3.1,245,300,Dining,3.0-3.5,Under 300
+Petoo,No,No,3.7,21,450,Dining,3.5-4.0,300-500
+Shree Cool Point,Yes,No,4.1,28,150,Dining,4.0+,Under 300
+Corner House Ice Cream,No,No,4.3,345,400,Dining,4.0+,300-500
+Biryanis And More,Yes,No,4.0,618,750,Dining,3.5-4.0,700+
+Roving Feast,No,No,4.0,1047,450,Dining,3.5-4.0,300-500
+FreshMenu,Yes,No,3.9,627,450,Dining,3.5-4.0,300-500
+Banashankari Donne Biriyani,Yes,No,3.8,104,300,Dining,3.5-4.0,Under 300
+Wamama,Yes,Yes,4.2,354,800,other,4.0+,700+
+Five Star Chicken,No,No,3.6,55,200,Dining,3.5-4.0,Under 300
+XO Belgian Waffle,Yes,No,3.7,17,400,Dining,3.5-4.0,300-500
+Peppy Peppers,No,No,4.2,244,800,other,4.0+,700+
+Goa 0 Km,Yes,Yes,3.6,163,800,Dining,3.5-4.0,700+
+Chinese Kitchen,Yes,No,3.8,58,150,Dining,3.5-4.0,Under 300
+Jeet Restaurant,No,Yes,4.0,808,850,Dining,3.5-4.0,700+
+Cake of the Day,No,No,3.7,78,150,Dining,3.5-4.0,Under 300
+Kabab Magic,Yes,No,4.1,1720,400,Dining,4.0+,300-500
+Namma Brahmin's Idli,Yes,No,3.6,34,100,Dining,3.5-4.0,Under 300
+Gustoes Beer House,No,No,4.1,868,700,Dining,4.0+,500-700
+Sugar Rush,No,No,3.8,39,300,Dining,3.5-4.0,Under 300
+Burger King,Yes,No,3.2,71,600,Dining,3.0-3.5,500-700
+The Good Bowl,Yes,No,3.6,6,500,Dining,3.5-4.0,300-500
+The Biryani Cafe,No,No,4.1,520,300,Dining,4.0+,Under 300
+Spicy Tandoor,No,No,4.1,0,150,Dining,4.0+,Under 300
+LSD Cafe,No,No,2.9,84,700,other,Below 3,500-700
+Rolls On Wheels,No,No,3.6,299,300,Dining,3.5-4.0,Under 300
+Om Sri Vinayaka Chats,No,No,3.6,0,500,Dining,3.5-4.0,300-500
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1,558,150,Dining,4.0+,Under 300
+Devanna Dum Biriyani Centre,Yes,No,3.6,28,300,Dining,3.5-4.0,Under 300
+Kolbeh,No,No,3.7,22,500,Dining,3.5-4.0,300-500
+Upahar Sagar,No,No,3.8,39,350,Dining,3.5-4.0,300-500
+Kadalu Sea Food Restaurant,Yes,No,3.8,153,500,Dining,3.5-4.0,300-500
+Frozen Bottle,Yes,No,4.2,146,400,Dining,4.0+,300-500
+Parimala Sweets,No,No,3.5,14,200,Dining,3.0-3.5,Under 300
+Vaishali Deluxe,No,No,3.8,42,700,Dining,3.5-4.0,500-700
+Chill Out,No,No,3.8,0,100,Dining,3.5-4.0,Under 300
+The Big O Bakes,No,No,4.0,66,300,Dining,3.5-4.0,Under 300
+Meghana Foods,Yes,No,4.4,4401,600,Dining,4.0+,500-700
+Krishna Sagar,No,No,3.5,31,200,Dining,3.0-3.5,Under 300
+Dessert Rose,No,No,3.5,7,500,Dining,3.0-3.5,300-500
+Chickpet Donne Biryani House,No,No,3.7,21,250,Dining,3.5-4.0,Under 300
+Me And My Cake,No,No,3.7,0,500,Dining,3.5-4.0,300-500
+Sunsadm,No,No,3.7,0,400,Dining,3.5-4.0,300-500
+Annapooraneshwari Mess,No,No,3.7,0,200,Dining,3.5-4.0,Under 300
+Thanco's Natural Ice Creams,No,No,3.2,9,300,Dining,3.0-3.5,Under 300
+Nandhini Deluxe,No,No,2.6,283,600,Dining,Below 3,500-700
+Vi Ra's Bar and Restaurant,No,No,3.3,62,800,Dining,3.0-3.5,700+
+Kaggis,No,No,3.8,64,250,Dining,3.5-4.0,Under 300
+Ayda Persian Kitchen,No,No,3.7,39,950,Dining,3.5-4.0,700+
+Chatar Patar,No,No,3.7,65,300,Dining,3.5-4.0,Under 300
+Polar Bear,Yes,No,3.8,71,400,Dining,3.5-4.0,300-500
+Kidambi's Kitchen,No,No,3.5,52,300,Dining,3.0-3.5,Under 300
+Mane Thindi,No,No,3.7,130,200,Dining,3.5-4.0,Under 300
+Kotian Karavali Restaurant,No,No,3.5,10,300,Dining,3.0-3.5,Under 300
+Floured-Baked With Love,No,No,3.8,45,400,Dining,3.5-4.0,300-500
+CAFE NOVA,No,No,3.2,11,600,Dining,3.0-3.5,500-700
+Cakes & Slices,No,No,3.5,13,300,Dining,3.0-3.5,Under 300
+Spice 9,No,No,3.4,8,300,Dining,3.0-3.5,Under 300
+Coffee Shopee,No,No,3.4,0,250,Dining,3.0-3.5,Under 300
+Naveen Kabab & Biriyani Mane,No,No,3.2,9,300,Dining,3.0-3.5,Under 300
+Katriguppe Donne Biryani,No,No,3.2,4,300,Dining,3.0-3.5,Under 300
+Hari Super Sandwich,No,No,3.2,0,200,Dining,3.0-3.5,Under 300
+Atithi Point Ande Ka Funda,No,No,3.1,29,150,Dining,3.0-3.5,Under 300
+Just Bake,No,No,3.4,8,400,Dining,3.0-3.5,300-500
+Dharwad Line Bazaar Mishra Pedha,No,No,3.4,0,150,Dining,3.0-3.5,Under 300
+Cake Bite,No,No,3.4,0,300,Dining,3.0-3.5,Under 300
+Aarush's Food Plaza,No,No,3.4,0,200,Dining,3.0-3.5,Under 300
+Wood Stove,No,No,3.4,0,150,Dining,3.0-3.5,Under 300
+Kulfi & More,No,No,3.4,0,150,Dining,3.0-3.5,Under 300
+Kannadigas Karavali,No,No,3.4,0,250,Dining,3.0-3.5,Under 300
+K27 - The Pub,No,No,3.1,30,900,Dining,3.0-3.5,700+
+Bengaluru Coffee House,Yes,No,4.1,201,300,Dining,4.0+,Under 300
+New Mangalore Lunch Home,No,No,3.3,7,200,Dining,3.0-3.5,Under 300
+Coffee Bytes,No,No,3.1,6,100,Dining,3.0-3.5,Under 300
+Parjanya Chat Zone,No,No,3.3,17,200,Dining,3.0-3.5,Under 300
+Kwality Wall's Swirl's Happiness Station,No,No,2.9,25,200,Dining,Below 3,Under 300
+Soms Kitchen & Bakes,No,No,2.9,0,400,Dining,Below 3,300-500
+Banashankari Nati Style,No,No,2.9,0,350,Dining,Below 3,300-500
+Ruchi Maayaka,No,No,3.3,8,100,Dining,3.0-3.5,Under 300
+Mohitesh Hut Roll,No,No,3.3,0,150,Dining,3.0-3.5,Under 300
+Sri Basaveshwar Jolada Rotti Oota,No,No,3.4,0,150,Dining,3.0-3.5,Under 300
+Roll Magic Fast Food,No,No,3.4,0,200,Dining,3.0-3.5,Under 300
+Foodlieious Multi Cuisine,No,No,3.4,0,100,Dining,3.0-3.5,Under 300
+Thanishka Nati And Karavali Style,No,No,3.1,0,400,Dining,3.0-3.5,300-500
+Swathi Cool Point,No,No,4.1,0,200,Dining,4.0+,Under 300
+Kaumudis Juoice,No,No,3.3,0,150,Dining,3.0-3.5,Under 300
+Amma - Manae,No,No,3.1,0,400,Dining,3.0-3.5,300-500
+Sri Sai Tiffannies,No,No,3.3,0,150,Dining,3.0-3.5,Under 300
+Hotel Andhra Speices,No,No,2.9,0,250,Dining,Below 3,Under 300
+Sri Murari Family Restaurant,No,No,2.9,0,250,Dining,Below 3,Under 300
+Aramane Donne Biriyani,No,No,2.9,0,150,Dining,Below 3,Under 300
+Darkolates,No,No,3.3,0,200,Dining,3.0-3.5,Under 300
+Swaada Healthy Kitchen,No,No,3.3,0,350,Dining,3.0-3.5,300-500
+Gawdaru Mane Beriyani,No,No,3.3,0,300,Dining,3.0-3.5,Under 300
+Melting Melodies,No,No,3.3,0,100,Dining,3.0-3.5,Under 300
+New Indraprasta,No,No,3.3,0,150,Dining,3.0-3.5,Under 300
+Anna Kuteera,Yes,No,4.0,771,450,Dining,3.5-4.0,300-500
+Darbar,No,No,3.0,98,800,Dining,Below 3,700+
+Vijayalakshmi,Yes,No,3.9,47,200,Dining,3.5-4.0,Under 300
