@@ -51,7 +51,7 @@ Built as a two-page interactive Power BI dashboard on top of the cleaned data:
 **Page 2 — Full Data:**
 - A complete, sortable leaderboard of all 148 restaurants (name, type, rating, votes, cost, online order, table booking), sorted by votes descending
 
-The dashboard is included as ZOMATO_project.pbix — open it directly in Power BI Desktop to explore it. It was built from Zomato_cleaned.csv following the analysis in the notebook.
+The full dashboard file (ZOMATO_project.pbix) is included in this repo — open it in Power BI Desktop to explore the interactive version.
 ## Tools
 
 Python (pandas, matplotlib, seaborn), Jupyter Notebook, Power BI
